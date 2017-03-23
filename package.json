@@ -1,0 +1,19 @@
+{
+  "name": "colour-wheel",
+  "version": "0.1.0",
+  "description": "colour wheel made with javascript",
+  "main": "wheel.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebstasyOne/colour-wheel.git"
+  },
+  "author": "Kasun Gamage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebstasyOne/colour-wheel/issues"
+  },
+  "homepage": "https://github.com/WebstasyOne/colour-wheel#readme"
+}
